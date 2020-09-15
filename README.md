@@ -4,5 +4,5 @@
 # Simple-careem-program-using-different-conditional-statements-and-functions
 This is a simple program that is based on diffrent conditional statements, function and some modules.
 
-the program gives out multiple optionelated to SIGN IN, SIGN UP, and then chooce RIDE NOW or RIDE LATER option and hw you mltiple ide option 
-(cars, bikes etc) anbd then information about captain name, car/bike name, model and capain number.
+the program gives multiple option related to SIGN IN, SIGN UP, then let you chooce RIDE NOW or RIDE LATER option.After selecting RIDE NOW it gives vehicle option like
+(cars, bikes etc). After booking vehicle you will get information about captain name, car/bike name, model and capain number.
