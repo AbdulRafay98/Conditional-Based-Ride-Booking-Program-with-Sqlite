@@ -1,4 +1,4 @@
-# Conditional-Based-Ride-Booking-Program-with-sqlite-database
+# Conditional-Based-Ride-Booking-Program-with-Sqlite
 
 
 # Simple-ride-booking-program-using-conditional-statements
